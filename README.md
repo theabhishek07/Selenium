@@ -1,5 +1,5 @@
 # Selenium Testing
-![alt text](https://www.mindfiresolutions.com/images/SeleniumAutomationTesting_Mindfire.PNG)
+![alt text](https://www.sevenmentor.com/wp-content/uploads/2019/09/Selenium-Testing.jpg)
 
 ## What is Selenium?
 + Selenium is one of the most widely used open source Web UI (User Interface) automation testing suite.
